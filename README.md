@@ -114,22 +114,89 @@ pie title Development Focus
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 Professional Portfolio
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunil-kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <h3>🌟 Featured Projects & Contributions</h3>
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🚀 Drupal Modules
+**Error Reporting Module** - Enhanced error handling  
+**Menu Item Group Role Access** - Advanced access control  
+**Community Contributions** - Active Drupal contributor
+
+</td>
+<td align="center" width="50%">
+
+### 💼 Professional Skills
+**Full Stack Development** - Modern web applications  
+**Automation Solutions** - Workflow optimization  
+**Open Source Advocacy** - Community engagement
+
+</td>
+</tr>
+</table>
+
+## 🎯 Coding Excellence & Achievements
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <h3>🏆 Development Metrics</h3>
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 📈 Development Excellence
+<img src="https://github-readme-stats.vercel.app/api?username=sunil-kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Development%20Excellence" alt="GitHub Stats" />
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Technical Proficiency
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Technical%20Proficiency" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <h3>🚀 Key Achievements</h3>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Drupal%20Modules-2%20Published-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-Delivered-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>🎯 Professional Achievements</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Drupal%20Contributor-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Advocate-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Expert-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Specialist-4ECDC4?style=for-the-badge&logo=robot&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-A%20Grade-00D4FF?style=for-the-badge&logo=check-circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project%20Delivery-100%25-00FF88?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client%20Satisfaction-5%20Stars-FFD700?style=for-the-badge&logo=star&logoColor=white" />
 </div>
 
 <div align="center">
